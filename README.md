@@ -1,2 +1,3 @@
 # AllDijital_Phones
-Finding Phones and Prices of a brand you choose from Alldijital.ir
+Choose your brand and see the price of phones in an Excel file
+The information is scraped from www.alldijital.ir
